@@ -1,3 +1,18 @@
 [submodule "books"]
 	path = books
 	url = https://github.com/Manish254252/Book_Service.git
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = https://github.com/Manish254252/Eureka_Server_Micro_Srvices.git
+[submodule "Api_Gateway_Service"]
+	path = Api_Gateway_Service
+	url = https://github.com/Manish254252/Api_GateWay_micro_services.git
+[submodule "LibraryService"]
+	path = LibraryService
+	url = https://github.com/Manish254252/Library_Services.git
+[submodule "BookService"]
+	path = BookService
+	url = https://github.com/Manish254252/Book_Service.git
+[submodule "StudentService"]
+	path = StudentService
+	url = https://github.com/Manish254252/Student_Service.git
