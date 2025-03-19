@@ -1,4 +1,5 @@
-package com.example.BookServiceApp.controller;
+git submodule add https://github.com/your-username/nested-repo.git nested-repo
+        package com.example.BookServiceApp.controller;
 
 import com.example.BookServiceApp.entity.Book;
 import com.example.BookServiceApp.services.BookService;
