@@ -1,6 +1,6 @@
 # 🏗️ Microservices Architecture with Spring Boot  
 
-This repository (`microservices`) contains multiple **Spring Boot-based microservices**, each handling a specific functionality. These services communicate with each other, forming a complete **distributed system**.
+This repository (`MicroservicesDemo`) contains multiple **Spring Boot-based microservices**, each handling a specific functionality. These services communicate with each other, forming a complete **distributed system**.
 
 ## 📌 Overview  
 
