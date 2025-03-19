@@ -29,7 +29,7 @@ This project follows the **Microservices Architecture** pattern, where each serv
 1️⃣ **Eureka Server** registers and manages all microservices.  
 2️⃣ **API Gateway** routes requests to appropriate microservices.  
 3️⃣ **Library Service** interacts with **Book Service** & **Student Service** to manage book transactions.  
-4️⃣ Each microservice communicates via **REST APIs** or **message queues (RabbitMQ/Kafka)**.  
+4️⃣ Each microservice communicates via **REST APIs**.  
 
 ## 🚀 **How to Run the Services**  
 
